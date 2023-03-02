@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Dai Minh</h1>
 <h3 align="center">A self-taught Machine Learning lover from Viet Nam</h3>
 
-- 🌱 I’m currently learning: **Machine Learning using Tensorflow, Torch and Sckikit-learn**
+- 🌱 I’m currently learning: **Machine Learning**
 
 - 👨‍💻 All of my projects are available at: [https://github.com/ndminh2003?tab=repositories](https://github.com/ndminh2003?tab=repositories)
 
 - 📫 How to reach me: **nguyendaiminh2003@gmail.com**
 
-- 📄 Know about my experiences: None as I am a 3rd year VGU student. I only have my project as experience
+- 📄 Know about my experiences: None as I am a 3rd year student. I only have my project as experience
 
 - ⚡ Fun fact: **I suck at web designing**
 

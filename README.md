@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dai Minh</h1>
-<h3 align="center">A self-taught Machine Learning lover from Viet Nam</h3>
+<h3 align="center">A self-taught Data Science lover from Viet Nam</h3>
 
-- 🌱 I’m currently learning: **Machine Learning**
+- 🌱 I’m currently learning: **Data Science**
 
 - 👨‍💻 All of my projects are available at: [https://github.com/ndminh2003?tab=repositories](https://github.com/ndminh2003?tab=repositories)
 
